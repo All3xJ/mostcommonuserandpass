@@ -1,0 +1,10 @@
+root
+test
+oracle
+admin
+user
+postgres
+guest
+nagios
+mysql
+tomcat
